@@ -7,18 +7,18 @@ http://kysubrse.com/ebook-ky-su-cau-noi
 
 ### Phần 1 : Tổng quan – Khái niệm – Xác định hướng đi		
 
-#### Bài 7: Các mức level BrSE và mức lương tương ứng	
-- Beginner
-- Level 1 – Có thể làm việc độc lập 				
-- Level 2 – Onsite lead/External Project Manager
-- Level 3 – Có kỹ năng đàm phán					
-- Level 4 – Cảnh giới cao nhất của BrSE đạo pháp
+	Bài 7: Các mức level BrSE và mức lương tương ứng	
+		Beginner
+		Level 1 – Có thể làm việc độc lập 				
+		Level 2 – Onsite lead/External Project Manager
+		Level 3 – Có kỹ năng đàm phán					
+		Level 4 – Cảnh giới cao nhất của BrSE đạo pháp
 		
-#### Bài 8: 5 ngộ nhận về nghề BrSE 					
-- 1. BrSE chỉ làm việc communication (làm cầu nối liên lạc) 
-- 2. BrSE không cần giỏi công nghệ						
-- 3. Cứ qua Nhật onsite là thành BrSE 			
-- 4. Không có tiếng Nhật thì sẽ không được đi Nhật 
+	Bài 8: 5 ngộ nhận về nghề BrSE 					
+		1. BrSE chỉ làm việc communication (làm cầu nối liên lạc) 
+		2. BrSE không cần giỏi công nghệ						
+		3. Cứ qua Nhật onsite là thành BrSE 			
+		4. Không có tiếng Nhật thì sẽ không được đi Nhật 
 
 
 
