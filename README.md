@@ -5,7 +5,7 @@ Trang tổng hợp các kiến thức training tài liệu cho BrSE/Comtor
 http://kysubrse.com/ebook-ky-su-cau-noi
 
 
-### Phần 1 : Tổng quan – Khái niệm – Xác định hướng đi		
+### [Phần 1 : Tổng quan – Khái niệm – Xác định hướng đi](https://github.com/vietbaoa4htk/brse.github.io/blob/main/Ph%E1%BA%A7n%201%20:%20T%E1%BB%95ng%20quan%20%E2%80%93%20Kh%C3%A1i%20ni%E1%BB%87m%20%E2%80%93%20X%C3%A1c%20%C4%91%E1%BB%8Bnh%20h%C6%B0%E1%BB%9Bng%20%C4%91i)		
 
 	Bài 7: Các mức level BrSE và mức lương tương ứng	
 		Beginner
